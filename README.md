@@ -1,5 +1,4 @@
-# Snake AI — Reinforcement Learning Project
-**Reinforcement Learning, Third Year**
+# Snake AI 
 
 ## Structure
 ```
